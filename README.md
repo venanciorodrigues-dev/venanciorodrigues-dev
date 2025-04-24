@@ -1,4 +1,4 @@
-<h2 align="left">Meu nome é Venancio Rodrigues, estudante de Informática interessado em tecnologia e programação. Planejo cursar Análise e Desenvolvimento de Sistema.</h2>
+<h2 align="left">Estudante dedicado e apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando evoluir tecnicamente, aprender coisas novas e encarar desafios que contribuam para meu crescimento e para a entrega de soluções de qualidade.</h2>
 
 ###
 
